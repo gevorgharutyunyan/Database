@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9178d74-48ee-44eb-aed1-64f8ef60e6ca" name="Default Changelist" comment="" />
+    <list default="true" id="d9178d74-48ee-44eb-aed1-64f8ef60e6ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_sed.py" beforeDir="false" afterPath="$PROJECT_DIR$/try_sed.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="8910cf68-f8ba-4ac2-a6e2-513bb0f96bf7" />
+  <component name="JupyterTrust" id="b66840af-f3ad-4b36-b64b-737c735962af" />
   <component name="ProjectId" id="1nuxUwo2KpFTQ103dwayvDK1TsP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -102,11 +105,15 @@
       <option name="presentableId" value="Default" />
       <updated>1612253796074</updated>
       <workItem from="1612253821583" duration="5605000" />
+      <workItem from="1612285921468" duration="3537000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -118,30 +125,40 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1864" height="262" key="GridCell.Tab.0.bottom" timestamp="1612273706944">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state x="355" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612288848125">
+      <screen x="0" y="0" width="1280" height="984" />
     </state>
+    <state x="355" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1612288848125" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1612288792453">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1612288792453" />
     <state width="1864" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1046@0.0.1920.1046" timestamp="1612273706944" />
-    <state width="1864" height="262" key="GridCell.Tab.0.center" timestamp="1612273706944">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1612288792452">
+      <screen x="0" y="0" width="1280" height="984" />
     </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1612288792452" />
     <state width="1864" height="262" key="GridCell.Tab.0.center/0.0.1920.1046@0.0.1920.1046" timestamp="1612273706944" />
-    <state width="1864" height="262" key="GridCell.Tab.0.left" timestamp="1612273706944">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1612288792452">
+      <screen x="0" y="0" width="1280" height="984" />
     </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1612288792452" />
     <state width="1864" height="262" key="GridCell.Tab.0.left/0.0.1920.1046@0.0.1920.1046" timestamp="1612273706944" />
-    <state width="1864" height="262" key="GridCell.Tab.0.right" timestamp="1612273706944">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1612288792453">
+      <screen x="0" y="0" width="1280" height="984" />
     </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1612288792453" />
     <state width="1864" height="262" key="GridCell.Tab.0.right/0.0.1920.1046@0.0.1920.1046" timestamp="1612273706944" />
-    <state x="343" y="63" key="SettingsEditor" timestamp="1612254317763">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state x="229" y="59" key="SettingsEditor" timestamp="1612286684704">
+      <screen x="0" y="0" width="1280" height="984" />
     </state>
+    <state x="229" y="59" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1612286684704" />
     <state x="343" y="63" key="SettingsEditor/0.0.1920.1046@0.0.1920.1046" timestamp="1612254317763" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Database$try_sed.coverage" NAME="try_sed Coverage Results" MODIFIED="1612273069810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Database$try_sed.coverage" NAME="try_sed Coverage Results" MODIFIED="1612288792444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
